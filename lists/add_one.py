@@ -6,3 +6,4 @@ def add_one(arr):
     return [int(digit) for digit in new_string]
 
 print(add_one([1, 2, 3]))
+print(add_one([9, 9, 9, 9]))
